@@ -1,0 +1,46 @@
+<html>
+<head>
+<title>My first webpage</title>
+</head>
+<body>
+This is my first homepage.<b>This text is in bold</b><br>
+This is my first hompage.<i>This text is in italics</i><br>
+This is my first homepage.<u>This text is underlined</u><br>
+</body>
+</html>
+
+
+<html>
+<head>
+<title>lists</title>
+</head>
+<body>
+<ol>
+<li>List item 1</li>
+<ol type ="A">
+<li>Nested item 1.1</li>
+<li>Nested item 1.2</li>
+</ol>
+<li>List item 2</li>
+<ol type ="i">
+<li>Nested item 2.1</li>
+<li>Nested item 2.2</li>
+<ul type ="square">
+<li>Nested item 2.2.1</li>
+<li>Nested item 2.2.1</li>
+<ul type ="circle">
+<li><i>Nested item 2.2.2.1</i></li>
+<li><i>Nested item 2.2.2.2</i></li>
+</ul>
+<li>Nested item 2.3</li>
+</ul>
+</ol>
+<li>List item 3</li>
+<ul type ="disc">
+<li>Item 1</li>
+<li>Item 2</li>
+<li>Item 3</li>
+</ul>
+</ol>
+</body>
+</html>
